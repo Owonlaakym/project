@@ -15,7 +15,8 @@ ul{
 }
 .number{
     margin-right: 50px;
-    color: firebrick;
+    color: #b22222;
+    color: #dc143c;
 }
 *{
     margin-top: 3px;

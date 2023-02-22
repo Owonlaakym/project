@@ -298,10 +298,11 @@ footer{
     margin-left: 180px;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 750px) {
     nav{
         display: block;
         background-color: rgba(0, 0, 0, 0.09);
+        width: 100%;
     }
     ul>li{
         display: block;
@@ -311,7 +312,7 @@ footer{
         margin-left: 300px;
     }
     .landing{
-        width: 800px;
+        width: 100%;
     }
     .stroke1{
         width: 400px;
@@ -322,14 +323,18 @@ footer{
         left: 200px;
     }
     .landingtxt{
-        left: 70px;
+        left: 80px;
         letter-spacing: 2px;
     }
     .Reservation{
-        left: 300px;
+        left: 100px;
         width: 200px;
     }
+    .visit{
+        margin-top: 15px;
+    }
    .second{
+    width: 100%;
     height: 1000px;
    }
    .pic07{
@@ -343,7 +348,11 @@ footer{
     width: 200px;
    }
    .container{
+    width: 100%;
     height: 400px;
+   }
+   .separator{
+    width: 100%;
    }
    .pic06{
     top: 200px;
@@ -351,6 +360,15 @@ footer{
    }
    .txt2{
     left: 200px;
+   }
+   footer{
+    width: 100%;
+   }
+   .inner{
+    width: 100%;
+   }
+   .pic08{
+    width: 100%;
    }
    .sporting{
     top: 100px;

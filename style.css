@@ -298,3 +298,109 @@ footer{
     margin-left: 180px;
 }
 
+@media screen and (max-width: 800px) {
+    nav{
+        display: block;
+        background-color: rgba(0, 0, 0, 0.09);
+    }
+    ul>li{
+        display: block;
+        margin-left: 300px;
+    }
+    .number{
+        margin-left: 300px;
+    }
+    .landing{
+        width: 800px;
+    }
+    .stroke1{
+        width: 400px;
+        left: 200px;
+    }
+    .stroke2{
+        width: 400px;
+        left: 200px;
+    }
+    .landingtxt{
+        left: 70px;
+        letter-spacing: 2px;
+    }
+    .Reservation{
+        left: 300px;
+        width: 200px;
+    }
+   .second{
+    height: 1000px;
+   }
+   .pic07{
+    top: 220px;
+    left: 30px;
+   }
+   .one{
+     width: 200px;
+   }
+   .two{
+    width: 200px;
+   }
+   .container{
+    height: 400px;
+   }
+   .pic06{
+    top: 200px;
+    left: 200px;
+   }
+   .txt2{
+    left: 200px;
+   }
+   .sporting{
+    top: 100px;
+    left: 80px;
+   }
+   .stroke3{
+    top: 140px;
+    width: 250px;
+    left: 80px;
+   }
+   .movies{
+    top: 170px;
+    left: 80px;
+   }
+   .stroke6{
+    top: 210px;
+    width: 250px; 
+    left: 80px;
+   } 
+   .wedding{
+    top: 100px;
+    left: 400px;
+   }
+   .stroke5{
+    top: 140px;
+    width: 250px;
+    left: 400px;
+   }
+   .conventions{
+    top: 170px;
+    left: 400px;
+   }
+   .stroke4{
+    top: 210px;
+    width: 250px;
+    left: 400px;
+   }
+   .circle3{
+    top: 115px;
+    left: 300px;
+   }
+   .circle4{
+    top: 185px;
+    left: 300px;
+   }
+   .circle1{
+    top: 115px;
+   }
+   .circle2{
+    top: 185px;
+   }
+  
+}
